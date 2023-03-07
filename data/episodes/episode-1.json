@@ -1,0 +1,41 @@
+{
+  "episodeNumber": "1",
+  "title": "Outsider",
+  "locations": [
+    {
+      "location": "INT. School, classroom",
+      "intro": [
+        {
+          "para": "This is the first paragraph"
+        },
+        {
+          "para": "This is the second paragraph"
+        }
+      ],
+      "shots": [
+        {
+          "id": "1-10-100",
+          "actions": [
+            {
+              "para": "Here is the text"
+            },
+            {
+              "para": "there can be more text.",
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Sam",
+              "mood": "angry",
+              "lines": [
+                {
+                  "line": "What makes you say that?"
+                }
+              ]
+            }
+          ]
+        }      
+      ]
+    }
+  ]
+}
