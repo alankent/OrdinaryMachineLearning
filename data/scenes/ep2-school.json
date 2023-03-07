@@ -1,0 +1,154 @@
+{
+    "name": "Episode 2 - Newcomer",
+    "parts": [
+        {
+            "name": "Location 30",
+            "shots": [
+                {
+                    "id": "2-30-220",
+                    "name": "Shot 220",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        }
+                    ]
+                },
+                {
+                    "id": "2-30-225",
+                    "name": "Shot 225",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        }
+                    ]
+                },
+                {
+                    "id": "2-30-230",
+                    "name": "Shot 230",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        }
+                    ]
+                },
+                {
+                    "id": "2-30-240",
+                    "name": "Shot 240",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        }
+                    ]
+                },
+                {
+                    "id": "2-30-300",
+                    "name": "Shot 300",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        }
+                    ]
+                },
+                {
+                    "id": "2-30-301",
+                    "name": "Shot 301",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        }
+                    ]
+                },
+                {
+                    "id": "2-30-320",
+                    "name": "Shot 320",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        }
+                    ]
+                },
+                {
+                    "id": "2-30-340",
+                    "name": "Shot 340",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        }
+                    ]
+                },
+                {
+                    "id": "2-30-330",
+                    "name": "Shot 330",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        }
+                    ]
+                },
+                {
+                    "id": "2-30-360",
+                    "name": "Shot 360",
+                    "characters": [
+                        {
+                            "name": "Liana"
+                        }
+                    ]
+                },
+                {
+                    "id": "2-30-400",
+                    "name": "Shot 400",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        }
+                    ]
+                },
+                {
+                    "id": "2-30-410",
+                    "name": "Shot 410",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        }
+                    ]
+                },
+                {
+                    "id": "2-30-420",
+                    "name": "Shot 420",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        }
+                    ]
+                },
+                {
+                    "id": "2-30-430",
+                    "name": "Shot 430",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        }
+                    ]
+                },
+                {
+                    "id": "2-30-500",
+                    "name": "Shot 500 monitor cameras",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        },
+                        {
+                            "name": "Hank"
+                        },
+                        {
+                            "name": "Tom"
+                        },
+                        {
+                            "name": "Ivy"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

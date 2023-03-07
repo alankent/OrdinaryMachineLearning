@@ -1,0 +1,472 @@
+{
+    "name": "Episode 1 - Friendship part 1",
+    "parts": [
+        {
+            "name": "Location 20",
+            "shots": [
+                {
+                    "id": "1-20-002",
+                    "name": "Shot 002",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-008",
+                    "name": "Shot 008",
+                    "characters": []
+                },
+                {
+                    "id": "1-20-009",
+                    "name": "Shot 009",
+                    "characters": []
+                },
+                {
+                    "id": "1-20-010",
+                    "name": "Shot 10",
+                    "characters": [
+                        {
+                            "name": "Doug"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-020",
+                    "name": "Shot 20",
+                    "characters": []
+                },
+                {
+                    "id": "1-20-022",
+                    "name": "Shot 022",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-025",
+                    "name": "Shot 025",
+                    "characters": [
+                        {
+                            "name": "Cathy"
+                        },
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-030",
+                    "name": "Shot 30",
+                    "characters": [
+                        {
+                            "name": "Tom"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-040",
+                    "name": "Shot 40",
+                    "characters": [
+                        {
+                            "name": "Tom"
+                        },
+                        {
+                            "name": "Ivy"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-050",
+                    "name": "Shot 50",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        },
+                        {
+                            "name": "Ivy"
+                        },
+                        {
+                            "name": "Cathy"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-060",
+                    "name": "Shot 60",
+                    "characters": [
+                        {
+                            "name": "Ivy"
+                        },
+                        {
+                            "name": "Tom"
+                        },
+                        {
+                            "name": "Cathy"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-070",
+                    "name": "Shot 70",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-080",
+                    "name": "Shot 80",
+                    "characters": [
+                        {
+                            "name": "Ivy"
+                        },
+                        {
+                            "name": "Tom"
+                        },
+                        {
+                            "name": "Cathy"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-090",
+                    "name": "Shot 90",
+                    "characters": [
+                        {
+                            "name": "Ivy"
+                        },
+                        {
+                            "name": "Cathy"
+                        },
+                        {
+                            "name": "Tom"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-100",
+                    "name": "Shot 100",
+                    "characters": [
+                        {
+                            "name": "Tom"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-110",
+                    "name": "Shot 110",
+                    "characters": [
+                        {
+                            "name": "Cathy"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-120",
+                    "name": "Shot 120",
+                    "characters": [
+                        {
+                            "name": "Ivy"
+                        },
+                        {
+                            "name": "Tom"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-130",
+                    "name": "Shot 130",
+                    "characters": [
+                        {
+                            "name": "Ivy"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-140",
+                    "name": "Shot 140",
+                    "characters": [
+                        {
+                            "name": "Cathy"
+                        },
+                        {
+                            "name": "Ivy"
+                        },
+                        {
+                            "name": "Tom"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-150",
+                    "name": "Shot 150",
+                    "characters": [
+                        {
+                            "name": "Tom"
+                        },
+                        {
+                            "name": "Cathy"
+                        },
+                        {
+                            "name": "Ivy"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-155",
+                    "name": "Shot 155",
+                    "characters": [
+                        {
+                            "name": "Ivy"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-160",
+                    "name": "Shot 160",
+                    "characters": [
+                        {
+                            "name": "Tom"
+                        },
+                        {
+                            "name": "Cathy"
+                        },
+                        {
+                            "name": "Ivy"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-170",
+                    "name": "Shot 170",
+                    "characters": [
+                        {
+                            "name": "Sam 1"
+                        },
+                        {
+                            "name": "Sam 2"
+                        },
+                        {
+                            "name": "Sam 3"
+                        },
+                        {
+                            "name": "Sam 4"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-180",
+                    "name": "Shot 180",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-190",
+                    "name": "Shot 190",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-200",
+                    "name": "Shot 200",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-210",
+                    "name": "Shot 210",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-230",
+                    "name": "Shot 230",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        },
+                        {
+                            "name": "MrsShort"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-235",
+                    "name": "Shot 235",
+                    "characters": [
+                        {
+                            "name": "MrsShort"
+                        },
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-270",
+                    "name": "Shot 270",
+                    "characters": [
+                        {
+                            "name": "MrsShort"
+                        },
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-280",
+                    "name": "Shot 280",
+                    "characters": [
+                        {
+                            "name": "MrsShort"
+                        },
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-290",
+                    "name": "Shot 290",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        },
+                        {
+                            "name": "MrsShort"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-300",
+                    "name": "Shot 300",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-310",
+                    "name": "Shot 310",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        },
+                        {
+                            "name": "Sam"
+                        },
+                        {
+                            "name": "Sam"
+                        },
+                        {
+                            "name": "Sam"
+                        },
+                        {
+                            "name": "Sam"
+                        },
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-320",
+                    "name": "Shot 320",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-330",
+                    "name": "Shot 330",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-331",
+                    "name": "Shot 331",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-332",
+                    "name": "Shot 332",
+                    "characters": []
+                },
+                {
+                    "id": "1-20-333",
+                    "name": "Shot 333",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-334",
+                    "name": "Shot 334",
+                    "characters": []
+                },
+                {
+                    "id": "1-20-335",
+                    "name": "Shot 335",
+                    "characters": []
+                },
+                {
+                    "id": "1-20-336",
+                    "name": "Shot 336",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-340",
+                    "name": "Shot 340",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-350",
+                    "name": "Shot 350",
+                    "characters": [
+                        {
+                            "name": "Ivy"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,909 @@
+{
+  "episodeNumber": "3",
+  "title": "BEGINNINGS",
+  "locations": [
+    {
+      "location": "EXT. 10 (part 1) SAM HOME, KITCHEN",
+      "intro": [],
+      "shots": [
+        {
+          "id": "3-10-010",
+          "actions": [
+            {
+              "para": "Kitchen establishing shot, Sam package bag for school, Deb sitting at bench"
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "3-10-020",
+          "actions": [
+            {
+              "para": "Deb watching Sam get ready, sitting at bench"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Deb",
+              "lines": [
+                {
+                  "line": "WHERE DID THIS SUDDEN ENTHUSIASM COME FROM?"
+                },
+                {
+                  "line": "AT THIS RATE YOU'LL BE ON TIME FOR SCHOOL!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3-10-030",
+          "actions": [
+            {
+              "para": "Sam grinning"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Sam",
+              "lines": [
+                {
+                  "line": "THERE IS A NEW KID STARTING IN OUR CLASS TODAY"
+                },
+                {
+                  "line": "I HEAR HE IS FROM OUT OF TOWN"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3-10-040",
+          "actions": [
+            {
+              "para": "Deb smiling, understanding"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Deb",
+              "lines": [
+                {
+                  "line": "AH... I SEE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3-10-050",
+          "actions": [
+            {
+              "para": ""
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Sam",
+              "lines": [
+                {
+                  "line": "WELL, I'M OFF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3-10-060",
+          "actions": [
+            {
+              "para": "Door closing, over shoulder shot of Deb, talking to herself"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Deb",
+              "lines": [
+                {
+                  "line": "JUST DON'T OVER DO IT SAM"
+                }
+              ],
+              "mood": "thinking"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "location": "INT. Location 20 (part 2): School (classroom)",
+      "intro": [],
+      "shots": [
+        {
+          "id": "3-20-100",
+          "actions": [
+            {
+              "para": "Rear forwards, all students (classroom establishment shot)"
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "3-20-110",
+          "actions": [
+            {
+              "para": "Sam mid shot? Want to keep focus on him a bit"
+            },
+            {
+              "text": "Shot front to back of everyone in classroom"
+            },
+            {
+              "text": "All kids in class sitting at desks, empty desk at front,"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Sam",
+              "lines": [
+                {
+                  "line": "THIS IS GOING TO BE A GREAT DAY! I CAN FEEL IT!"
+                }
+              ],
+              "mood": "thinking"
+            }
+          ]
+        },
+        {
+          "id": "3-20-120",
+          "actions": [
+            {
+              "para": "Shot towards door/front (over shoulder from Sam)"
+            },
+            {
+              "text": "Hank walks in with with Mrs Short"
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "3-20-121",
+          "actions": [
+            {
+              "para": "Closeup Hank face, side glance at Liana, eyes widen"
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "3-20-122",
+          "actions": [
+            {
+              "para": "Closeup on Liana, not looking at Hank at all, focus pan to Sam (grinning, eyes closed happy)"
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "3-20-123",
+          "actions": [
+            {
+              "para": "Hank mid, eyes transition to concerned"
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "3-20-130",
+          "actions": [
+            {
+              "para": "Mrs Short mid shot"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "MrsShort",
+              "lines": [
+                {
+                  "line": "THIS IS HANK, HE WILL BE JOINING US FROM TODAY"
+                },
+                {
+                  "line": "I AM SURE YOU WILL ALL MAKE HIM FEEL WELCOME"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3-20-140",
+          "actions": [
+            {
+              "para": "Shot of group around Ivy, Ivy unimpressed face, rolls eyes, others nearby turn and smile at her"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Ivy",
+              "lines": []
+            }
+          ]
+        },
+        {
+          "id": "3-20-151",
+          "actions": [
+            {
+              "para": "Closeup on hand slamming down on table"
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "3-20-160",
+          "actions": [
+            {
+              "para": "Angry eyes closeup"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "MrsShort",
+              "lines": [
+                {
+                  "line": "THAT INCLUDES YOU, RIGHT IVY?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3-20-170",
+          "actions": [
+            {
+              "para": "Ivy sits up straight, wide eyed"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Ivy",
+              "lines": [
+                {
+                  "line": "YES MA'AM!"
+                }
+              ],
+              "mood": "scared"
+            }
+          ]
+        },
+        {
+          "id": "3-20-180",
+          "actions": [
+            {
+              "para": "Mrs Short turns towards Sam while talking then away again"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "MrsShort",
+              "lines": [
+                {
+                  "line": "SAM, MAKE SURE TO SHOW HANK AROUND"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3-20-190",
+          "actions": [
+            {
+              "para": "Big cheery smile, eyes closed, mid shot, fade background to stars"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Sam",
+              "lines": [
+                {
+                  "line": "ABSOLUTELY!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3-20-195",
+          "actions": [
+            {
+              "para": "Mrs Short does a double take? Worried expression, mouth a bit open...? (\"what da!\")"
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "3-20-200",
+          "actions": [
+            {
+              "para": "Grumpy, looking away at nothing in particular"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "IT'S FINE, I CAN WORK OUT WHERE THINGS ARE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3-20-210",
+          "actions": [
+            {
+              "para": "Mrs Short Looks scary at Hank"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "MrsShort",
+              "lines": [
+                {
+                  "line": "WHAT DID YOU SAY?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3-20-220",
+          "actions": [
+            {
+              "para": "Wary, leaning back a bit"
+            },
+            {
+              "text": "TODO: Record HANDS UP, I SURRENDER ANIMATION CLIP!"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "AH, I MEAN YES MA'AM"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3-20-230",
+          "actions": [
+            {
+              "para": "(class starting), mid Mrs Short. TODO: RECORD POINTING AT SEAT"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "MrsShort",
+              "lines": [
+                {
+                  "line": "THAT'S BETTER"
+                },
+                {
+                  "line": "NOW TAKE YOUR SEAT AND WE WILL BEGIN"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3-20-240",
+          "actions": [
+            {
+              "para": "Gruff Hank sitting down in front of very cheery looking Sam"
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "3-20-260",
+          "actions": [
+            {
+              "para": "Static pose shot from angry angle (looking up or down, at strange angle) of Mrs Short"
+            }
+          ],
+          "dialog": []
+        }
+      ]
+    },
+    {
+      "location": "INT. & EXT. Location 30: Various school locations",
+      "intro": [],
+      "shots": [
+        {
+          "id": "3-30-310",
+          "actions": [
+            {
+              "para": "Poking head out from behind computer"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Sam",
+              "lines": [
+                {
+                  "line": "SO, HANK, ARE YOU A COMPUTER GENIUS?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3-30-312",
+          "actions": [
+            {
+              "para": "Different angle, still from behind Hank. Sam wide eyed. (Keep things moving along.)"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Sam",
+              "lines": [
+                {
+                  "line": "WOW! REALLY?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3-30-314",
+          "actions": [
+            {
+              "para": "Hank face, shocked, rolls eyes"
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "3-30-318",
+          "actions": [
+            {
+              "para": "(not 330) Canteen"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Sam",
+              "lines": [
+                {
+                  "line": "OUR CANTEEN IS PRETTY COOL RIGHT?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3-30-320",
+          "actions": [
+            {
+              "para": "Poking head out from behind maps"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Sam",
+              "lines": [
+                {
+                  "line": "HAVE YOU TRAVELED MUCH?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3-30-340",
+          "actions": [
+            {
+              "para": "Hank closes locker door, Sam standing there, just controlling anger re-opens door in Sam's face"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Sam",
+              "lines": [
+                {
+                  "line": "DON'T YOU JUST LOVE OUR LOCKERS?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3-30-350",
+          "actions": [
+            {
+              "para": "Closing door toilet stall door, Sam is there, eyes a bit wide eyed?"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Sam",
+              "lines": [
+                {
+                  "line": "OUR TOILETS ARE SO CLEAN RIGHT?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3-30-360",
+          "actions": [
+            {
+              "para": "Sam runs up beside Hank"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Sam",
+              "lines": [
+                {
+                  "line": "DO YOU LIKE SPORT?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3-30-370",
+          "actions": [
+            {
+              "para": "Hank runs away double speed (funny background?)"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Sam",
+              "lines": [
+                {
+                  "line": "I'LL TAKE THAT AS A YES?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3-30-390",
+          "actions": [
+            {
+              "para": "Hank half closed/angry eyes, steam coming out of ears, angry, twitching mouth, angry icon, Sam behind with big closed eyes grin"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Sam",
+              "lines": [
+                {
+                  "line": "DO YOU KNOW YOUR WAY AROUND TOWN YET?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3-30-400",
+          "actions": [
+            {
+              "para": "Closeup of Hanks face. Eyes closing, angry mouth. Fists. Still sitting at desk."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "WILL ... YOU ... JUST ... STOP!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3-30-410",
+          "actions": [
+            {
+              "para": "Side shot. Hank, lifts hands then slams hands down on Sam's desk (palms down), leaning forwards, Sam leaning back? Rest of class looking at them, shot over Hank's shoulder looking down on Sam (Sam wide eyed)"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "I DON'T NEED YOU IN MY FACE ALL DAY LONG!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3-30-415",
+          "actions": [
+            {
+              "para": "Same side shot, closer on face."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "I DON'T NEED YOUR HELP!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3-30-420",
+          "actions": [
+            {
+              "para": "Camera shots getting closer in jumps, angry. Full frontal facial, angry fast."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "I DON'T ... NEED ... YOU!!!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3-30-450",
+          "actions": [
+            {
+              "para": "Ivy watching sniggering."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Ivy",
+              "lines": [
+                {
+                  "line": "HMMM, MAYBE HANK IS NOT SO BAD AFTER ALL"
+                },
+                {
+                  "line": "Tom gives sudden eyes open, snaps to look at Ivy (jealous)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3-30-460",
+          "actions": [
+            {
+              "para": "Hank sits back down, angry expression still. Deep breathing. Eyes lowers, anger goes away."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "SO ANNOYING! ... BUT MAYBE I OVERDID THAT"
+                }
+              ],
+              "mood": "thinking"
+            }
+          ]
+        },
+        {
+          "id": "3-30-470",
+          "actions": [
+            {
+              "para": "Hank, hand rubbing back of head. Twisting in chair to face Sam."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "LOOK, SORRY, BUT..."
+                },
+                {
+                  "line": "Sideways pan to reveal Sam gone."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3-30-490",
+          "actions": [
+            {
+              "para": "Static pose photo, or SAM but nobody in shot?"
+            }
+          ],
+          "dialog": []
+        }
+      ]
+    },
+    {
+      "location": "EXT. Locat 40. WALKING HOME FROM SCHOOL - AFTERNOON",
+      "intro": [],
+      "shots": [
+        {
+          "id": "3-40-500",
+          "actions": [
+            {
+              "para": "Side view, Sam walking outside school (establishment shot for next sequence), Sam looking down, sad"
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "3-40-505",
+          "actions": [
+            {
+              "para": "Closeup on Sam. Walking towards gate"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Sam",
+              "lines": [
+                {
+                  "line": "GOOD JOB SAM!"
+                },
+                {
+                  "line": "SOMEONE NEW AND YOU GET HIM TO HATE YOU ON THE FIRST DAY"
+                }
+              ],
+              "mood": "thought"
+            }
+          ]
+        },
+        {
+          "id": "3-40-510",
+          "actions": [
+            {
+              "para": "(sad)"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Sam",
+              "lines": [
+                {
+                  "line": "THAT HAS TO BE A NEW RECORD"
+                }
+              ],
+              "mood": "thought"
+            }
+          ]
+        },
+        {
+          "id": "3-40-520",
+          "actions": [
+            {
+              "para": "Walking down path. Sam looking upwards at trees, daydreaming, moving along path. Maybe camera looking up at trees. Or shot from above down on Sam's face looking up."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Sam",
+              "lines": [
+                {
+                  "line": "I WONDER WHAT IT WAS LIKE GROWING UP IN A BIG CITY, ALWAYS SURROUNDED BY PEOPLE"
+                }
+              ],
+              "mood": "thought"
+            }
+          ]
+        },
+        {
+          "id": "3-40-530",
+          "actions": [
+            {
+              "para": "Frontal. Sam keeps walking. Policeman steps out from behind tree"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Sam",
+              "lines": [
+                {
+                  "line": "HE PROBABLY HAD LOTS OF FRIENDS BEFORE COMING HERE"
+                }
+              ],
+              "mood": "thoughts"
+            }
+          ]
+        },
+        {
+          "id": "3-40-540",
+          "actions": [
+            {
+              "para": "Rear distant shot near the gate. Policeman in background following. Sam looking down does not notice him."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Sam",
+              "lines": [
+                {
+                  "line": "I'D BE HAPPY FOR JUST ONE {SIGH}"
+                }
+              ],
+              "mood": "thought"
+            }
+          ]
+        },
+        {
+          "id": "3-40-545",
+          "actions": [
+            {
+              "para": "Frontal. Sam"
+            },
+            {
+              "text": "31notices Nathan, slight smile on face. Eyes slide sideways, smile appears on face."
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "3-40-550",
+          "actions": [
+            {
+              "para": "Turns right out of front gate, disappears"
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "3-40-560",
+          "actions": [
+            {
+              "para": "Policeman follows around corner, but when gets around the corner, Sam is nowhere in sight again (disappeared)."
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "3-40-570",
+          "actions": [
+            {
+              "para": "Distant shot showing policeman looking around, alone."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Nathan",
+              "lines": [
+                {
+                  "line": "AGAIN?"
+                }
+              ],
+              "mood": "thinking"
+            }
+          ]
+        },
+        {
+          "id": "3-40-580",
+          "actions": [
+            {
+              "para": "Bible verse Luke 6:31 Do to others as you would have them do to you."
+            }
+          ],
+          "dialog": []
+        }
+      ]
+    }
+  ]
+}

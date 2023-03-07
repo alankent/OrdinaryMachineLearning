@@ -1,0 +1,182 @@
+{
+    "name": "Episode 2 - Introducing Hank",
+    "parts": [
+        {
+            "name": "Location 10",
+            "shots": [
+                {
+                    "id": "2-10-005",
+                    "name": "Shot 005",
+                    "characters": []
+                },
+                {
+                    "id": "2-10-010",
+                    "name": "Shot 010",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        },
+                        {
+                            "name": "Terry"
+                        },
+                        {
+                            "name": "Amy"
+                        }
+                    ]
+                },
+                {
+                    "id": "2-10-020",
+                    "name": "Shot 020",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        },
+                        {
+                            "name": "Terry"
+                        },
+                        {
+                            "name": "Amy"
+                        }
+                    ]
+                },
+                {
+                    "id": "2-10-030",
+                    "name": "Shot 030",
+                    "characters": [
+                        {
+                            "name": "Terry"
+                        },
+                        {
+                            "name": "Amy"
+                        },
+                        {
+                            "name": "Hank"
+                        }
+                    ]
+                },
+                {
+                    "id": "2-10-040",
+                    "name": "Shot 040",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        },
+                        {
+                            "name": "Terry"
+                        },
+                        {
+                            "name": "Amy"
+                        }
+                    ]
+                },
+                {
+                    "id": "2-10-050",
+                    "name": "Shot 050",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        },
+                        {
+                            "name": "Amy"
+                        },
+                        {
+                            "name": "Terry"
+                        }
+                    ]
+                },
+                {
+                    "id": "2-10-060",
+                    "name": "Shot 060",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        },
+                        {
+                            "name": "Amy"
+                        },
+                        {
+                            "name": "Terry"
+                        }
+                    ]
+                },
+                {
+                    "id": "2-10-070",
+                    "name": "Shot 070",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        },
+                        {
+                            "name": "Amy"
+                        },
+                        {
+                            "name": "Terry"
+                        }
+                    ]
+                },
+                {
+                    "id": "2-10-075",
+                    "name": "Shot 075",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        }
+                    ]
+                },
+                {
+                    "id": "2-10-080",
+                    "name": "Shot 080",
+                    "characters": [
+                        {
+                            "name": "Amy"
+                        },
+                        {
+                            "name": "Terry"
+                        }
+                    ]
+                },
+                {
+                    "id": "2-10-090",
+                    "name": "Shot 090",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        }
+                    ]
+                },
+                {
+                    "id": "2-10-100",
+                    "name": "Shot 100",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        }
+                    ]
+                },
+                {
+                    "id": "2-10-110",
+                    "name": "Shot 110",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        }
+                    ]
+                },
+                {
+                    "id": "2-10-120",
+                    "name": "Shot 120",
+                    "characters": []
+                },
+                {
+                    "id": "2-10-000",
+                    "name": "Poster",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

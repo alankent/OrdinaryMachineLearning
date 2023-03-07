@@ -1,0 +1,159 @@
+{
+    "name": "Episode 1 - Friendship part 1",
+    "parts": [
+        {
+            "name": "Location10",
+            "shots": [
+                {
+                    "id": "1-10-010",
+                    "name": "Shot010",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-10-020",
+                    "name": "Shot020",
+                    "characters": [
+                        {
+                            "name": "MrsB"
+                        },
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-10-032",
+                    "name": "Shot032",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        },
+                        {
+                            "name": "MrsB"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-10-038",
+                    "name": "Shot038",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-10-040",
+                    "name": "Shot040",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        },
+                        {
+                            "name": "MrsB"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-10-050",
+                    "name": "Shot050",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        },
+                        {
+                            "name": "MrsB"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-10-060",
+                    "name": "Shot060",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        },
+                        {
+                            "name": "MrsB"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-10-070",
+                    "name": "Shot070",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        },
+                        {
+                            "name": "MrsB"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-10-090",
+                    "name": "Shot090",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        },
+                        {
+                            "name": "MrsB"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-10-100",
+                    "name": "Shot100",
+                    "characters": [
+                        {
+                            "name": "MrsB"
+                        },
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-10-110",
+                    "name": "Shot110",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        },
+                        {
+                            "name": "MrsB"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-10-120",
+                    "name": "Shot120",
+                    "characters": []
+                },
+                {
+                    "id": "1-10-180",
+                    "name": "Shot180",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-10-000",
+                    "name": "Poster",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

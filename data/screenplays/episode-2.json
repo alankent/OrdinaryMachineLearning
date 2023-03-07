@@ -1,0 +1,640 @@
+{
+  "episodeNumber": "2",
+  "title": "NEWCOMER",
+  "locations": [
+    {
+      "location": "INT. Location 10: Hank's house",
+      "intro": [],
+      "shots": [
+        {
+          "id": "2-10-005",
+          "actions": [
+            {
+              "para": "Establishment shot, picture of packing boxes in lounge room"
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "2-10-010",
+          "actions": [
+            {
+              "para": ""
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "MOM!  NO! I'M GOING TO WALK! IT'S NOT FAR"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2-10-020",
+          "actions": [
+            {
+              "para": "Close up?"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "NOTHING IS FAR IN THIS PITIFUL EXCUSE OF A TOWN"
+                }
+              ],
+              "mood": "Muttering"
+            }
+          ]
+        },
+        {
+          "id": "2-10-030",
+          "actions": [
+            {
+              "para": ""
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Amy",
+              "lines": [
+                {
+                  "line": "BUT WHAT IF YOU GET LOST? THERE ARE NOT MANY STREET SIGNS. LET ME DRIVE YOU..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2-10-040",
+          "actions": [
+            {
+              "para": ""
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "MOM! I'M NOT A BABY! I KNOW HOW TO GET THERE!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2-10-050",
+          "actions": [
+            {
+              "para": ""
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Terry",
+              "lines": [
+                {
+                  "line": "STOP FUSSING, HE'LL BE FINE. HE'S ALMOST A MAN NOW"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2-10-060",
+          "actions": [
+            {
+              "para": "Chest out, standing tall"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Terry",
+              "lines": [
+                {
+                  "line": "SON, I KNOW THIS MOVE WAS UNEXPECTED, BUT IT IS A HUGE OPPORTUNITY FOR ME!"
+                },
+                {
+                  "line": "THIS IS THE START OF SOMETHING GREAT! THIS DAY WILL GO DOWN IN HISTORY!"
+                },
+                {
+                  "line": "Hank rolls his eyes during speech."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2-10-070",
+          "actions": [
+            {
+              "para": "Hank leaves house"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": []
+            }
+          ]
+        },
+        {
+          "id": "2-10-080",
+          "actions": [
+            {
+              "para": ""
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Amy",
+              "lines": [
+                {
+                  "line": "SO WHEN ARE YOU GOING TO TELL HIM WHY WE ARE REALLY HERE"
+                },
+                {
+                  "line": "Terry's eyes go wide, and he looks down dejected"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "location": "EXT. Location 10, Outside Hank house",
+      "intro": [],
+      "shots": [
+        {
+          "id": "2-10-100",
+          "actions": [
+            {
+              "para": "Outside house, struggling with front gate?"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "WHY DID WE END UP IN SUCH A DUMP?"
+                }
+              ],
+              "mood": "thought"
+            }
+          ]
+        },
+        {
+          "id": "2-10-110",
+          "actions": [
+            {
+              "para": "Walking down street"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "FROM A BIG CITY, PRIVATE SCHOOL, ACCESS TO EVERYTHING..."
+                }
+              ],
+              "mood": "thought"
+            }
+          ]
+        },
+        {
+          "id": "2-10-120",
+          "actions": [
+            {
+              "para": "Trees all around, walking, distant shot showing nothing around"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "... TO THIS NOTHING TOWN, NOHOW SCHOOL, IN THE MIDDLE OF NOWHERE"
+                }
+              ],
+              "mood": "thought"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "location": "EXT. LOCATION 20: Under bridge",
+      "intro": [],
+      "shots": [
+        {
+          "id": "2-20-100",
+          "actions": [
+            {
+              "para": "Hank walking out from under the bridge (cars going past on bridge?), camera pans down to him underneath."
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "2-20-105",
+          "actions": [
+            {
+              "para": "Close up on Hank"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "DID I GET A SAY? NOPE! JUST \"PACK YOUR BAGS SON, WE'RE GOING!\""
+                }
+              ],
+              "mood": "thought"
+            }
+          ]
+        },
+        {
+          "id": "2-20-110",
+          "actions": [
+            {
+              "para": "Hank walks up to can (pan from can to Hank) (low camera angle up to Hank)"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "NOBODY CARES WHAT I WANT"
+                },
+                {
+                  "line": "NOBODY LISTENS TO WHAT I HAVE TO SAY"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2-20-120",
+          "actions": [
+            {
+              "para": "Closeup on Hank face angry"
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "2-20-130",
+          "actions": [
+            {
+              "para": "Side shot of can - Hank stomps on it"
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "2-20-140",
+          "actions": [
+            {
+              "para": "Hank looks at can again, expression going even more angry, grimace on mouth, glowing eyes, zoom in on face, zoom out on background at same time?"
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "2-20-150",
+          "actions": [
+            {
+              "para": "Hank stomps on can over and over and over again (closeup on face)"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "WHY! WHY! WHY!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2-20-170",
+          "actions": [
+            {
+              "para": "Hank bending over, panting, (hand on wall?), camera lookup up at face (darkened), angry, straight arms, hard angles"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "WHY DID WE HAVE TO COME HERE DAD?"
+                },
+                {
+                  "line": "I HAD EVERYTHING WORKED OUT, IT WAS ALL GOING TO PLAN"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2-20-180",
+          "actions": [
+            {
+              "para": "Leaning backwards against wall, sliding down, head slumped forwards"
+            },
+            {
+              "text": "Hank eyes closed, shoulders slump, fists go limp"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "I HAD FRIENDS WHO ENVIED ME, REPUTATION"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2-20-180",
+          "actions": [
+            {
+              "para": ""
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "2-20-190",
+          "actions": [
+            {
+              "para": "Sitting on ground"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "AND NOW WHAT? NOTHING!"
+                },
+                {
+                  "line": "AND IT'S NOT MY FAULT!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2-20-210",
+          "actions": [
+            {
+              "para": "Slouched (face close up)"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "MY FRIENDS WOULD LAUGH THEIR HEADS OFF IF THEY COULD SEE ME NOW"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2-20-220",
+          "actions": [
+            {
+              "para": "Ending, but turning point, getting up."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "I HATE THIS PLACE"
+                },
+                {
+                  "line": "BUT IT'S NOT GOING TO BEAT ME"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2-20-230",
+          "actions": [
+            {
+              "para": "Defiance, shaking first at sky, legs apart? Walking towards town (need to flow into next shot)"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "DID YOU HEAR THAT TOWN! I AM NOT GIVING UP! YOU ARE NOT GOING TO GET THE BETTER OF ME!"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "location": "EXT. Location 30 - starts outside building next to school (just around corner), the moves outside school",
+      "intro": [],
+      "shots": [
+        {
+          "id": "2-30-240",
+          "actions": [
+            {
+              "para": "Looking around. Humor, distant shot?"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "BUT WHERE THE HECK AM I?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2-30-300",
+          "actions": [
+            {
+              "para": "(Hank walking down street wrong way?)"
+            },
+            {
+              "text": "Liana rides past on scooter, hair blowing in wind. (Rear over shoulder shot of Hank watching Liana.)"
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "2-30-310",
+          "actions": [
+            {
+              "para": "Hank eyes widen, tracks her going past on other side of street (closeup on Hanks face) - Liana does not look at Hank"
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "2-30-320",
+          "actions": [
+            {
+              "para": "Final cut back shows her eyes looking sideways at him. (Shot of Liana closeup, with Hank in scene behind standing turned towards Liana)"
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "2-30-330",
+          "actions": [
+            {
+              "para": "Hank starts walking in her direction."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "I GUESS I CAN SEE WHAT THIS TOWN HAS TO OFFER"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2-30-410",
+          "actions": [
+            {
+              "para": "Hank walks up to wall, looking up"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "WELL, THIS MUST BE IT"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2-30-420",
+          "actions": [
+            {
+              "para": "Focus on security cameras, pan to Hank"
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "2-30-430",
+          "actions": [
+            {
+              "para": "Hank face focus (for cut to next location)"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "NICE SAFE LITTLE TOWN HUH?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2-30-440",
+          "actions": [
+            {
+              "para": "Shot of Hank's face looking at camera, to embed in the next scene (static shot? Video clip? Other static shots of classrooms, corridoors etc?)"
+            }
+          ],
+          "dialog": []
+        }
+      ]
+    },
+    {
+      "location": "INT. Location 40: Secret Lab with Abigail",
+      "intro": [],
+      "shots": [
+        {
+          "id": "2-40-500",
+          "actions": [
+            {
+              "para": "Pan out from static shot of Hank to reveal monitor in dark room, over shoulder of Abigail (pictures of other school locations on other monitors?)"
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "2-40-520",
+          "actions": [
+            {
+              "para": "Smile widens"
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "2-40-530",
+          "actions": [
+            {
+              "para": "Distant shot from behind"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Abigail",
+              "lines": [
+                {
+                  "line": "NOW THINGS GET INTERESTING..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2-40-540",
+          "actions": [
+            {
+              "para": "...For I know the plans I have for you, declares the LORD, plans to prosper you and not to harm you, plans to give you hope and a future.Jeremiah 29:11"
+            }
+          ],
+          "dialog": []
+        }
+      ]
+    }
+  ]
+}

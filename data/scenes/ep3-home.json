@@ -1,0 +1,94 @@
+{
+    "name": "Episode 3 - Beginnings",
+    "parts": [
+        {
+            "name": "Location 10",
+            "shots": [
+                {
+                    "id": "3-10-010",
+                    "name": "Shot 010",
+                    "characters": [
+                        {
+                            "name": "Deb"
+                        },
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-10-020",
+                    "name": "Shot 020",
+                    "characters": [
+                        {
+                            "name": "Deb"
+                        },
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-10-030",
+                    "name": "Shot 030",
+                    "characters": [
+                        {
+                            "name": "Deb"
+                        },
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-10-040",
+                    "name": "Shot 040",
+                    "characters": [
+                        {
+                            "name": "Deb"
+                        },
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-10-050",
+                    "name": "Shot 050",
+                    "characters": [
+                        {
+                            "name": "Deb"
+                        },
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-10-060",
+                    "name": "Shot 060",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        },
+                        {
+                            "name": "Deb"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-10-070",
+                    "name": "Shot 070",
+                    "characters": [
+                        {
+                            "name": "Deb"
+                        },
+                        {
+                            "name": "DebInBlack"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

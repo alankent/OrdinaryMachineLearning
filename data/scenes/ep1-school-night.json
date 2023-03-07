@@ -1,0 +1,184 @@
+{
+    "name": "Episode 1 - Friendship NIGHT",
+    "parts": [
+        {
+            "name": "Location 20 Night",
+            "shots": [
+                {
+                    "id": "1-20-200",
+                    "name": "S 200",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-210",
+                    "name": "S 210",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-230",
+                    "name": "S 230",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        },
+                        {
+                            "name": "MrsShort"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-235",
+                    "name": "S 235",
+                    "characters": [
+                        {
+                            "name": "MrsShort"
+                        },
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-270",
+                    "name": "S 270",
+                    "characters": [
+                        {
+                            "name": "MrsShort"
+                        },
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-280",
+                    "name": "S 280",
+                    "characters": [
+                        {
+                            "name": "MrsShort"
+                        },
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-290",
+                    "name": "S 290",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        },
+                        {
+                            "name": "MrsShort"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-300",
+                    "name": "S 300",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-310",
+                    "name": "S 310",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        },
+                        {
+                            "name": "Sam"
+                        },
+                        {
+                            "name": "Sam"
+                        },
+                        {
+                            "name": "Sam"
+                        },
+                        {
+                            "name": "Sam"
+                        },
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-320",
+                    "name": "S 320",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-330",
+                    "name": "S 330",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-331",
+                    "name": "S 331",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-333",
+                    "name": "S 333",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-336",
+                    "name": "S 336",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-340",
+                    "name": "S 340",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "1-20-350",
+                    "name": "S 350",
+                    "characters": [
+                        {
+                            "name": "Ivy"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

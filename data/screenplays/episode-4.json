@@ -1,0 +1,1116 @@
+{
+  "episodeNumber": "4",
+  "title": "NOWHERESVILLE",
+  "locations": [
+    {
+      "location": "INT. 10 SCHOOL CLASSROOM AND HALLWAY, AFTER SCHOOL",
+      "intro": [],
+      "shots": [
+        {
+          "id": "4-10-010",
+          "actions": [
+            {
+              "para": "Opening credits, Hank sitting at desk, looking down, thoughtful."
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "4-10-020",
+          "actions": [
+            {
+              "para": "Flashback, repeat, to reposition emotionally, blurred edges, white"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "I don't..."
+                },
+                {
+                  "line": "need..."
+                },
+                {
+                  "line": "you!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4-10-030",
+          "actions": [
+            {
+              "para": "Sam reaction closeup?"
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "4-10-040",
+          "actions": [
+            {
+              "para": "Hank looking down, sad/thoughtful, then shakes head and looks angry"
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "4-10-100",
+          "actions": [
+            {
+              "para": "Hank - Walking out of class, muttering, rear shot"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "I hate this school"
+                }
+              ],
+              "mood": "thinking"
+            }
+          ]
+        },
+        {
+          "id": "4-10-110",
+          "actions": [
+            {
+              "para": "Walking down corridor"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "SO DISORGANIZED"
+                },
+                {
+                  "line": "STUPID TEACHERS"
+                },
+                {
+                  "line": "CRAZY STUDENTS"
+                }
+              ],
+              "mood": "thinking"
+            }
+          ]
+        },
+        {
+          "id": "4-10-120",
+          "actions": [
+            {
+              "para": "Arrives at lockers"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "HANK",
+              "lines": [
+                {
+                  "line": "IS EVERYONE IN THIS TOWN UNHINGED?"
+                }
+              ],
+              "mood": "thinking"
+            }
+          ]
+        },
+        {
+          "id": "4-10-130",
+          "actions": [
+            {
+              "para": "Angry, eyes closed, grimace, walking down corridor (others walking in background)"
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "4-10-140",
+          "actions": [
+            {
+              "para": "Arrives at lockers, rear head shot"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "WAS I TOO HARD ON HIM?"
+                }
+              ],
+              "mood": "thought"
+            }
+          ]
+        },
+        {
+          "id": "4-10-150",
+          "actions": [
+            {
+              "para": "Facial shot, eyes looking side to side"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "HE WAS THE ONLY ONE TO ACTUALLY TALK TO ME"
+                }
+              ],
+              "mood": "thought"
+            }
+          ]
+        },
+        {
+          "id": "4-10-160",
+          "actions": [
+            {
+              "para": "Rolls eyes? Distant shot?"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "BUT DEFINITELY SUPER ANNOYING"
+                }
+              ],
+              "mood": "thought"
+            }
+          ]
+        },
+        {
+          "id": "4-10-170",
+          "actions": [
+            {
+              "para": "Distant shot?"
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "4-20-200",
+          "actions": [
+            {
+              "para": "(smile) Pan sideways to include Liana in shot, lots of other kids in corridor (outside lockers), hand to hair, bloom, sun ray through window?"
+            },
+            {
+              "text": "Stars?"
+            },
+            {
+              "text": "Spend some time positioning other kids talking to each other in corridor - going to use that below for everyone looking at Hank"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Liana",
+              "lines": [
+                {
+                  "line": "Hi! Hank right? I'm Liana."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4-20-210",
+          "actions": [
+            {
+              "para": "Hank slight blush, eyes widen."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "Oh, err, hi!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4-20-220",
+          "actions": [
+            {
+              "para": "Mid shot, Liana smile, head tilt, self confident"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Liana",
+              "lines": [
+                {
+                  "line": "So, you survived your first day!"
+                },
+                {
+                  "line": "That's always a good thing"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4-20-225",
+          "actions": [
+            {
+              "para": "Leaving (walking past Hank towards front door)"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Liana",
+              "lines": [
+                {
+                  "line": "Well, see you tomorrow!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4-20-230",
+          "actions": [
+            {
+              "para": "stops, 3/4 rear head view, Liana looking back over her shoulder"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Liana",
+              "lines": [
+                {
+                  "line": "Oh, I almost forgot"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4-20-240",
+          "actions": [
+            {
+              "para": "Close up on Liana's eyes, eyes narrowed, strange angle (uncomfortable), a bit evil / mischievous"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Liana",
+              "lines": [
+                {
+                  "line": "Mrs Short wanted to see you in her office"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4-20-250",
+          "actions": [
+            {
+              "para": "Wide shot of corridor, everyone's stops, heads pivots towards Hank, shocked wide eyed expressions"
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "4-20-260",
+          "actions": [
+            {
+              "para": "Hank mid shot, looking around at others staring at him (camera pan around with head)"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "Uh..."
+                },
+                {
+                  "line": "Thanks..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4-20-270",
+          "actions": [
+            {
+              "para": "Suddenly everyone but Liana leaves to suddenly empty corridor"
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "4-20-280",
+          "actions": [
+            {
+              "para": "Distant shot, Hank alone with Liana"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "I think..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4-20-290",
+          "actions": [
+            {
+              "para": "Static divider shot, Liana"
+            }
+          ],
+          "dialog": []
+        }
+      ]
+    },
+    {
+      "location": "INT. 20 MRS SHORT OFFICE, AFTER SCHOOL",
+      "intro": [],
+      "shots": [
+        {
+          "id": "4-30-300",
+          "actions": [
+            {
+              "para": "Mrs Short sitting at desk, receives phone call"
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "4-30-310",
+          "actions": [
+            {
+              "para": "Close up on Mrs Short mouth talking on phone"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Mrs Short",
+              "lines": [
+                {
+                  "line": "Yes, I understand, leave it to me"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4-30-320",
+          "actions": [
+            {
+              "para": "Mrs Short hangs up, a reluctant look on her face looking at phone?"
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "4-30-330",
+          "actions": [
+            {
+              "para": "Mrs Short looking at door, someone is knocking from outside"
+            },
+            {
+              "text": "Sound effect: KNOCK KNOCK!"
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "4-30-340",
+          "actions": [
+            {
+              "para": "Mrs Short is the professional teacher, emotions completely in control, brushes her clothes down, sits up straight"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Mrs Short",
+              "lines": [
+                {
+                  "line": "Come in!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4-30-350",
+          "actions": [
+            {
+              "para": "Hank walks and stops in front of desk, eyes half closed (bored / disdainful)"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "You asked for me?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4-30-360",
+          "actions": [
+            {
+              "para": "Hands crossed on desk, big smile"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Mrs Short",
+              "lines": [
+                {
+                  "line": "Yes, thank you for coming"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4-30-370",
+          "actions": [
+            {
+              "para": "Mid short, Mrs Short"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Mrs Short",
+              "lines": [
+                {
+                  "line": "I wanted to talk to you about your first assignment"
+                },
+                {
+                  "line": "The other students have already started"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4-30-380",
+          "actions": [
+            {
+              "para": "Side Shot? Eyes closed grin"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Mrs Short",
+              "lines": [
+                {
+                  "line": "I was planning to give you an extension"
+                },
+                {
+                  "line": "The assignment might be a bit hard for you otherwise"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4-30-400",
+          "actions": [
+            {
+              "para": "Disdainful"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "I came from a top private school"
+                },
+                {
+                  "line": "I am sure I can handle any assignments from a nowhere school like this!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4-30-410",
+          "actions": [
+            {
+              "para": "Mrs Short grin frozen in place, eyes still closed, extended silence before talking."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Mrs Short",
+              "lines": [
+                {
+                  "line": "I SEE, SO YOU THINK WE DON'T KNOW HOW TO TEACH HERE DO YOU?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4-30-430",
+          "actions": [
+            {
+              "para": "Low angle up to Hank's face, tracking in, wading deeping into problems (ego time!)"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "MY LAST SCHOOL HAD ONLY THE BEST TEACHERS!"
+                },
+                {
+                  "line": "WE HAD ONLY THE BEST EQUIPMENT!"
+                },
+                {
+                  "line": "EVERY ASSIGNMENT WE HAD PUSHED US TO OUR LIMITS!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4-30-440",
+          "actions": [
+            {
+              "para": "Superior looking camera angle"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "I CANNOT IMAGINE NOT BEING ABLE TO HANDLE ANY ASSIGNMENT FROM THIS SCHOOL!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4-30-450",
+          "actions": [
+            {
+              "para": "Mrs Short Dark face, fumes and lightning, cannot hold back the flood (or maybe do in previous shot, pan down on Mrs Short, Hank not looking, smoke coming up from Mrs Short)"
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "4-30-460",
+          "actions": [
+            {
+              "para": "Shot with Hank and Mrs Short, Hank opens eyes, sees, Mrs Short's reaction, eyes widen in fear"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "THAT MIGHT HAVE GONE A BIT FAR!"
+                },
+                {
+                  "line": "WHY HAVE MY LEGS GONE NUMB?"
+                }
+              ],
+              "mood": "thought"
+            }
+          ]
+        },
+        {
+          "id": "4-30-470",
+          "actions": [
+            {
+              "para": "Close up, scary eyes, slowly opening. Could do rear shot of Mrs Short, with fumes, panning up to reveal Hank."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Mrs Short",
+              "lines": [
+                {
+                  "line": "SO YOU THINK OUR TEACHERS ARE NOT GOOD DO YOU?"
+                },
+                {
+                  "line": "YOU THINK WE ARE BEHIND, BACKWARDS?"
+                },
+                {
+                  "line": "YOU THINK WE DON'T CHALLENGE OUR STUDENTS?!?!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4-30-480",
+          "actions": [
+            {
+              "para": "Hands on desk, leaning forwards to stand up."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Mrs Short",
+              "lines": [
+                {
+                  "line": "LET ME TELL YOU SOMETHING YOUNG MAN!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4-30-490",
+          "actions": [
+            {
+              "para": "Humorous shot. Mrs Short standing behind desk, Hank looking down at her, highlighting height difference (blank eyes on both characters); Rising blush on her face; She sits down again"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Mrs Short",
+              "lines": []
+            }
+          ]
+        },
+        {
+          "id": "4-30-500",
+          "actions": [
+            {
+              "para": "Angle #1 (short), back under control, smile on face but angry"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Mrs Short",
+              "lines": [
+                {
+                  "line": "AS YOU WISH THEN"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4-30-505",
+          "actions": [
+            {
+              "para": "Angle #2 (short)"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Mrs Short",
+              "lines": [
+                {
+                  "line": "NO EXTENSION!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4-30-510",
+          "actions": [
+            {
+              "para": "Angle #3 (short)"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Mrs Short",
+              "lines": [
+                {
+                  "line": "THE ASSIGNMENT IS DUE MONDAY!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4-30-520",
+          "actions": [
+            {
+              "para": "Evil smirk, dutch and zoom spiraling in on weird angle; Hank wide eyed, recoiling a bit"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Mrs Short",
+              "lines": [
+                {
+                  "line": "WOULD YOU LIKE TO KNOW WHAT THE TOPIC IS?"
+                },
+                {
+                  "line": "OR ARE YOU SO SMART YOU ALREADY KNOW THAT TOO?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4-30-530",
+          "actions": [
+            {
+              "para": "Mrs short looking off somewhere else (hand), casual waving her hand"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Mrs Short",
+              "lines": [
+                {
+                  "line": "IT'S VERY EASY ACTUALLY, A TRIFLE, ON LOCAL HISTORY"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4-30-540",
+          "actions": [
+            {
+              "para": "Two fists on table, combat time"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Mrs Short",
+              "lines": [
+                {
+                  "line": "WRITE AN ESSAY ON THE SOCIO-ECONOMIC IMPACT OF THREE KEY LOCATIONS AROUND TOWN"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4-30-550",
+          "actions": [
+            {
+              "para": "Hank wide eyed, Mrs Short angry"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Mrs Short",
+              "lines": [
+                {
+                  "line": "THAT'S NOT TO HARD FOR YOU, MR TOP SCHOOL BOY, SHOULD IT?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4-30-560",
+          "actions": [
+            {
+              "para": "Gentle (evil) smile, Mid shot"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Mrs Short",
+              "lines": [
+                {
+                  "line": "BUT DON'T WORRY, IT'S ONLY HALF YOUR SEMESTER MARKS!"
+                },
+                {
+                  "line": "NOTHING TO WORRY ABOUT!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4-30-570",
+          "actions": [
+            {
+              "para": "Hank nervous, then recovers his bluster a bit (arms back in fear, then turns into a confident fist pose)"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "SOCIO-ECONOMIC IMPACT? SOUNDS EA-EASY!"
+                },
+                {
+                  "line": "I WILL SHOW YOU WHAT A PROPER SCHOOL CAN TEACH YOU"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4-30-580",
+          "actions": [
+            {
+              "para": "Deceptively innocent smile with evil eyes"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Mrs Short",
+              "lines": [
+                {
+                  "line": "THEN I SHALL LOOK FORWARD TO YOUR ESSAY ON MONDAY"
+                },
+                {
+                  "line": "THAT WAS ALL, GOOD BYE!"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "location": "INT. OUTSIDE MRS SHORT'S OFFICE, AFTER SCHOOL",
+      "intro": [],
+      "shots": [
+        {
+          "id": "4-40-600",
+          "actions": [
+            {
+              "para": "Hank in corridor, distant shot to place things"
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "4-40-610",
+          "actions": [
+            {
+              "para": "Wide, shaking eyes"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "WHAT DID I JUST DO?"
+                }
+              ],
+              "mood": "thought"
+            }
+          ]
+        },
+        {
+          "id": "4-40-620",
+          "actions": [
+            {
+              "para": "3 cuts at different angles (head in hands?)"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "SOCIO-ECONOMIC IMPACT OF THIS NOTHING TOWN?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4-40-630",
+          "actions": [
+            {
+              "para": ""
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "THREE LOCATIONS??"
+                }
+              ],
+              "mood": "thinking"
+            }
+          ]
+        },
+        {
+          "id": "4-40-640",
+          "actions": [
+            {
+              "para": ""
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "THIS NOTHING TOWN???"
+                }
+              ],
+              "mood": "thinking"
+            }
+          ]
+        },
+        {
+          "id": "4-40-650",
+          "actions": [
+            {
+              "para": "Frontal shot"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "BY MONDAY?!?"
+                }
+              ],
+              "mood": "thinking"
+            }
+          ]
+        },
+        {
+          "id": "4-40-660",
+          "actions": [
+            {
+              "para": "Rear shot walking down corridor"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Hank",
+              "lines": [
+                {
+                  "line": "I'M DEAD MEAT"
+                }
+              ],
+              "mood": "thinking"
+            }
+          ]
+        },
+        {
+          "id": "4-40-730",
+          "actions": [
+            {
+              "para": "Static shot, Hank"
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "4-40-800",
+          "actions": [
+            {
+              "para": "Back in office, looking at her hands? (angry looking at desk)"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Mrs Short",
+              "lines": [
+                {
+                  "line": "THAT LITTLE KNOW-IT-ALL BRAT..."
+                },
+                {
+                  "line": "WHO DOES HE THINK IS IN CHARGE HERE?"
+                }
+              ],
+              "mood": "angry"
+            }
+          ]
+        },
+        {
+          "id": "4-40-810",
+          "actions": [
+            {
+              "para": "Phone rings on desk again. Mrs Short looks at it, not moving (or slow scared pan as head turns)"
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "4-40-820",
+          "actions": [
+            {
+              "para": "Mrs Short zoom in on face, eyes widening as she looks sideways at phone (fear)"
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "4-40-830",
+          "actions": [
+            {
+              "para": "Mrs Short quickly walks out of office, not answering the call"
+            }
+          ],
+          "dialog": []
+        }
+      ]
+    },
+    {
+      "location": "INT. 20 SECRET ROOM",
+      "intro": [],
+      "shots": [
+        {
+          "id": "4-50-900",
+          "actions": [
+            {
+              "para": "Abigail watching Mrs Short clip walking out of her office on computer monitor"
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "4-50-910",
+          "actions": [
+            {
+              "para": "Close up on Abigail's lower face with a frown, angry mouth (holding phone to ear?)"
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "4-50-990",
+          "actions": [
+            {
+              "para": "Bible verse."
+            },
+            {
+              "text": "\"Pride goes before destruction, a haughty spirit before a fall\" Proverbs 16:18"
+            }
+          ],
+          "dialog": []
+        }
+      ]
+    }
+  ]
+}

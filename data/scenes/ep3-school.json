@@ -1,0 +1,635 @@
+{
+    "name": "Episode 3 - Beginnings",
+    "parts": [
+        {
+            "name": "Location 20",
+            "shots": [
+                {
+                    "id": "3-20-011",
+                    "name": "Bright Sun Directional Light 1 (1)",
+                    "characters": []
+                },
+                {
+                    "id": "3-20-000",
+                    "name": "Fade In",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-20-100",
+                    "name": "Shot 100",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        },
+                        {
+                            "name": "Liana"
+                        },
+                        {
+                            "name": "Ivy"
+                        },
+                        {
+                            "name": "Elanor"
+                        },
+                        {
+                            "name": "Helen"
+                        },
+                        {
+                            "name": "Tom"
+                        },
+                        {
+                            "name": "Cathy"
+                        },
+                        {
+                            "name": "Doug"
+                        },
+                        {
+                            "name": "Mandy"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-20-110",
+                    "name": "Shot 110",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        },
+                        {
+                            "name": "Liana"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-20-120",
+                    "name": "Shot 120",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        },
+                        {
+                            "name": "MrsShort"
+                        },
+                        {
+                            "name": "Sam"
+                        },
+                        {
+                            "name": "Cathy"
+                        },
+                        {
+                            "name": "Mandy"
+                        },
+                        {
+                            "name": "Liana"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-20-130",
+                    "name": "Shot 130",
+                    "characters": [
+                        {
+                            "name": "MrsShort"
+                        },
+                        {
+                            "name": "Hank"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-20-140",
+                    "name": "Shot 140",
+                    "characters": [
+                        {
+                            "name": "Ivy"
+                        },
+                        {
+                            "name": "Tom"
+                        },
+                        {
+                            "name": "Doug"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-20-150",
+                    "name": "Shot 150",
+                    "characters": [
+                        {
+                            "name": "MrsShort"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-20-151",
+                    "name": "Shot 151",
+                    "characters": []
+                },
+                {
+                    "id": "3-20-160",
+                    "name": "Shot 160",
+                    "characters": [
+                        {
+                            "name": "MrsShort"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-20-170",
+                    "name": "Shot 170",
+                    "characters": []
+                },
+                {
+                    "id": "3-20-180",
+                    "name": "Shot 180",
+                    "characters": [
+                        {
+                            "name": "MrsShort"
+                        },
+                        {
+                            "name": "Sam"
+                        },
+                        {
+                            "name": "Hank"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-20-190",
+                    "name": "Shot 190",
+                    "characters": [
+                        {
+                            "name": "Liana"
+                        },
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-20-195",
+                    "name": "Shot 195",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        },
+                        {
+                            "name": "MrsShort"
+                        },
+                        {
+                            "name": "Hank"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-20-200",
+                    "name": "Shot 200",
+                    "characters": [
+                        {
+                            "name": "MrsShort"
+                        },
+                        {
+                            "name": "Hank"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-20-210",
+                    "name": "Shot 210",
+                    "characters": [
+                        {
+                            "name": "MrsShort"
+                        },
+                        {
+                            "name": "Hank"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-20-220",
+                    "name": "Shot 220",
+                    "characters": [
+                        {
+                            "name": "MrsShort"
+                        },
+                        {
+                            "name": "Hank"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-20-230",
+                    "name": "Shot 230",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        },
+                        {
+                            "name": "MrsShort"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-20-240",
+                    "name": "Shot 240",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        },
+                        {
+                            "name": "Hank"
+                        },
+                        {
+                            "name": "Liana"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-20-250",
+                    "name": "Shot 250",
+                    "characters": []
+                },
+                {
+                    "id": "3-20-260",
+                    "name": "Shot 260",
+                    "characters": [
+                        {
+                            "name": "MrsShort"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Location 30",
+            "shots": [
+                {
+                    "id": "3-30-310",
+                    "name": "Shot 310",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-30-312",
+                    "name": "Shot 312",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        },
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-30-314",
+                    "name": "Shot 314",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-30-318",
+                    "name": "Shot 318",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-30-320",
+                    "name": "Shot 320",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-30-340",
+                    "name": "Shot 340",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-30-350",
+                    "name": "Shot 350",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        },
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-30-360",
+                    "name": "Shot 360",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        },
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-30-370",
+                    "name": "Shot 370",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-30-390",
+                    "name": "Shot 390",
+                    "characters": [
+                        {
+                            "name": "Liana"
+                        },
+                        {
+                            "name": "Sam"
+                        },
+                        {
+                            "name": "Hank"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-30-400",
+                    "name": "Shot 400",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        },
+                        {
+                            "name": "Hank"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-30-410",
+                    "name": "Shot 410",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        },
+                        {
+                            "name": "Hank"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-30-415",
+                    "name": "Shot 415",
+                    "characters": [
+                        {
+                            "name": "Liana"
+                        },
+                        {
+                            "name": "Sam"
+                        },
+                        {
+                            "name": "Hank"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-30-420",
+                    "name": "Shot 420",
+                    "characters": [
+                        {
+                            "name": "Liana"
+                        },
+                        {
+                            "name": "Sam"
+                        },
+                        {
+                            "name": "Hank"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-30-430",
+                    "name": "Shot 430",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        },
+                        {
+                            "name": "Liana"
+                        },
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-30-440",
+                    "name": "Shot 440",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        },
+                        {
+                            "name": "Sam"
+                        },
+                        {
+                            "name": "Liana"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-30-450",
+                    "name": "Shot 450",
+                    "characters": [
+                        {
+                            "name": "Ivy"
+                        },
+                        {
+                            "name": "Tom"
+                        },
+                        {
+                            "name": "Doug"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-30-460",
+                    "name": "Shot 460",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        },
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-30-465",
+                    "name": "Shot 465",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        },
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-30-470",
+                    "name": "Shot 470",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-30-490",
+                    "name": "Shot 490",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Location 40",
+            "shots": [
+                {
+                    "id": "3-40-500",
+                    "name": "Shot 500",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-40-505",
+                    "name": "Shot 505",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-40-510",
+                    "name": "Shot 510",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-40-520",
+                    "name": "Shot 520",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-40-530",
+                    "name": "Shot 530",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        },
+                        {
+                            "name": "Nathan"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-40-540",
+                    "name": "Shot 540",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        },
+                        {
+                            "name": "Nathan"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-40-545",
+                    "name": "Shot 545",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        },
+                        {
+                            "name": "Nathan"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-40-550",
+                    "name": "Shot 550",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        },
+                        {
+                            "name": "Nathan"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-40-560",
+                    "name": "Shot 560",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-40-570",
+                    "name": "Shot 570",
+                    "characters": [
+                        {
+                            "name": "Nathan"
+                        }
+                    ]
+                },
+                {
+                    "id": "3-40-580",
+                    "name": "Shot 580",
+                    "characters": []
+                },
+                {
+                    "id": "3-40-000",
+                    "name": "Reduce Ground Tint Volume",
+                    "characters": []
+                }
+            ]
+        }
+    ]
+}

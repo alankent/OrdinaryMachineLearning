@@ -1,0 +1,1080 @@
+{
+  "episodeNumber": "0",
+  "title": "Arrival",
+  "locations": [
+    {
+      "location": "EXT. EO-Downtown - Driving through town",
+      "intro": [],
+      "shots": [
+        {
+          "id": "0-10-010",
+          "actions": [
+            {
+              "para": "Inside car. Camera shots through window into car, etc. Sam leaning against window sleeping, mouth open."
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "0-10-020",
+          "actions": [
+            {
+              "para": "Wider shot of car driving down road."
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "0-10-030",
+          "actions": [
+            {
+              "para": "Deb driving, Sam stirring to wake up. Include both characters in the shot."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Deb",
+              "lines": [
+                {
+                  "line": "Sam! Wake up! We're here. Eastbay!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0-10-040",
+          "actions": [
+            {
+              "para": "Close up on Deb."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Deb",
+              "lines": [
+                {
+                  "line": "It's a quiet town. Ideal for us."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0-10-050",
+          "actions": [
+            {
+              "para": "Deb frowning. Driving through downtown, nobody there. Deb is looking from side to side. Sam yawns and blinks. Camera includes them both from the side."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Deb",
+              "lines": [
+                {
+                  "line": "Although I didn't realize it was this quiet."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0-10-060",
+          "actions": [
+            {
+              "para": "Sam yawns then talks and stretches."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Sam",
+              "lines": [
+                {
+                  "line": "That was a long drive!"
+                }
+              ],
+              "mood": "yawn"
+            }
+          ]
+        },
+        {
+          "id": "0-10-070",
+          "actions": [
+            {
+              "para": "Sam stirs in seat, looking around."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Sam",
+              "lines": [
+                {
+                  "line": "Where's the house?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0-10-080",
+          "actions": [
+            {
+              "para": "Shot back to Deb."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Deb",
+              "lines": [
+                {
+                  "line": "Just outside of town, won't be long now."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0-10-080",
+          "actions": [
+            {
+              "para": "Sam, starting to smile."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Sam",
+              "lines": [
+                {
+                  "line": "I can't wait! This is going to be awesome!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0-10-090",
+          "actions": [
+            {
+              "para": "Driving, talking. Looks at Sam when says 'young man'."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Deb",
+              "lines": [
+                {
+                  "line": "Well, we have the weekend to settle in then school starts for you Monday young man."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0-10-100",
+          "actions": [
+            {
+              "para": "Car drives into distance. Do some shots of car driving past different streets, like shot down japan town street and see car passing at end of street."
+            }
+          ],
+          "dialog": []
+        }
+      ]
+    },
+    {
+      "location": "EXT. EO-Sam-and-Hank-Home - Hills behind Sam's house",
+      "intro": [],
+      "shots": [
+        {
+          "id": "0-20-200",
+          "actions": [
+            {
+              "para": "Establishing shot - Sam in backyard amongst trees."
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "0-20-210",
+          "actions": [
+            {
+              "para": "Deb walks outside. Sam us outside looking at trees. Deb is smiling."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Deb",
+              "lines": [
+                {
+                  "line": "You are up early. Did you sleep well? Refreshed?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0-20-220",
+          "actions": [
+            {
+              "para": ""
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Sam",
+              "lines": [
+                {
+                  "line": "Yep! Ready and raring to go!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0-20-230",
+          "actions": [
+            {
+              "para": "Deb is looking around, sipping a drink of coffee."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Deb",
+              "lines": [
+                {
+                  "line": "It's a bit different here isn't it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0-20-240",
+          "actions": [
+            {
+              "para": "Looking around at trees then house."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Sam",
+              "lines": [
+                {
+                  "line": "Yes. So much nature!"
+                },
+                {
+                  "line": "And the house is so, um, quaint!"
+                },
+                {
+                  "line": "It's almost like living in a different century!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0-20-250",
+          "actions": [
+            {
+              "para": "Standing next to Sam, drinking coffee."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Deb",
+              "lines": [
+                {
+                  "line": "Well, make sure to pack your bag for school."
+                },
+                {
+                  "line": "You don't want to be late!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0-20-260",
+          "actions": [
+            {
+              "para": "Sam is grinning."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Sam",
+              "lines": [
+                {
+                  "line": "No problem, I got everything ready last night!"
+                },
+                {
+                  "line": "I am soooo ready!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0-20-270",
+          "actions": [
+            {
+              "para": "Close up on Sam."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Sam",
+              "lines": [
+                {
+                  "line": "This is going to be awesome."
+                },
+                {
+                  "line": "I can feel it in my bones!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0-20-280",
+          "actions": [
+            {
+              "para": "Pan to looking to hills and forest, sun through trees."
+            }
+          ],
+          "dialog": []
+        }
+      ]
+    },
+    {
+      "location": "EXT. EO-School-and-Surrounds - Outside front of school, morning",
+      "intro": [],
+      "shots": [
+        {
+          "id": "0-30-300",
+          "actions": [
+            {
+              "para": "Panning establishment shot of school?"
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "0-30-310",
+          "actions": [
+            {
+              "para": "Shot of workers working on the wall and security cameras. Sam walks past ignoring them."
+            }
+          ],
+          "dialog": []
+        }
+      ]
+    },
+    {
+      "location": "INT. EO-School-and-Surrounds - Classroom",
+      "intro": [],
+      "shots": [
+        {
+          "id": "0-30-320",
+          "actions": [
+            {
+              "para": "Rear shot Mrs Short looking out window at workers."
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "0-30-325",
+          "actions": [
+            {
+              "para": "Side shot, Mrs Short frowning, then she turns her head over shoulder."
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "0-30-330",
+          "actions": [
+            {
+              "para": "Facing door"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Mrs Short",
+              "lines": [
+                {
+                  "line": "Ah, here he is."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0-30-340",
+          "actions": [
+            {
+              "para": "Mrs Short facing class."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Mrs Short",
+              "lines": [
+                {
+                  "line": "Class, let me introduce our new student, Sam."
+                },
+                {
+                  "line": "Please make him feel welcome."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0-30-350",
+          "actions": [
+            {
+              "para": "Super close up on eyes, narrowing."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Mrs Short",
+              "lines": [
+                {
+                  "line": "Right, everyone?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0-30-360",
+          "actions": [
+            {
+              "para": "Shot towards the full class of bored looking kids."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "(class)",
+              "lines": [
+                {
+                  "line": "Yes Ma'am!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0-30-370",
+          "actions": [
+            {
+              "para": "Mrs Short turns to Sam."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Mrs Short",
+              "lines": [
+                {
+                  "line": "Why don't you introduce yourself."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0-30-380",
+          "actions": [
+            {
+              "para": "Super big grin on Sam, eyes closed."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Sam",
+              "lines": [
+                {
+                  "line": "Hi everyone! I'm Sam. I am so excited to be here!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0-30-380",
+          "actions": [
+            {
+              "para": "Over shoulder shot."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Sam",
+              "lines": [
+                {
+                  "line": "I've never attended a school so big before!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0-30-390",
+          "actions": [
+            {
+              "para": "Mid shot of Ivy. Boys behind start sniggering/smiling."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Ivy",
+              "lines": [
+                {
+                  "line": "Big? What planet did you land from?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0-30-400",
+          "actions": [
+            {
+              "para": "Stern look on Mrs Short's face."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Mrs Short",
+              "lines": [
+                {
+                  "line": "Ivy..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0-30-410",
+          "actions": [
+            {
+              "para": "Shot towards class, Cathy is smiling, most are bored."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Sam",
+              "lines": [
+                {
+                  "line": "I... I look forward to making friends with you all!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0-30-420",
+          "actions": [
+            {
+              "para": "Mrs Short looking at Sam, points to window seat."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Mrs Short",
+              "lines": [
+                {
+                  "line": "Very good, welcome to our school."
+                },
+                {
+                  "line": "Please take the window seat in front of Liana there."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0-30-420",
+          "actions": [
+            {
+              "para": "Liana glances to Sam, but returns to looking out the window (not interested). Hint of Sam eyes widening with Liana? How to show interest? Embarrassment?"
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "0-30-430",
+          "actions": [
+            {
+              "para": "Outside distant shot into class room with Mrs Short at the blackboard. Can see Sam through window. Panning shot away?"
+            },
+            {
+              "text": "Fade out:"
+            }
+          ],
+          "dialog": []
+        }
+      ]
+    },
+    {
+      "location": "INT. EO-School-and-Surrounds - Classroom, late afternoon",
+      "intro": [],
+      "shots": [
+        {
+          "id": "0-40-500",
+          "actions": [
+            {
+              "para": "Mrs short at desk."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Mrs Short",
+              "lines": [
+                {
+                  "line": "That is all for today."
+                },
+                {
+                  "line": "Don't forget the next test is on Friday."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0-40-510",
+          "actions": [
+            {
+              "para": "Mrs Short walks out door."
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "0-40-520",
+          "actions": [
+            {
+              "para": "Kids stand up, packing up, leaving etc."
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "0-40-510",
+          "actions": [
+            {
+              "para": "Sam talks to Ivy, a bit uncertain (grinning nervously)."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Sam",
+              "lines": [
+                {
+                  "line": "Wow, Mrs Short is a great teacher isn't she!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0-40-520",
+          "actions": [
+            {
+              "para": "Mid shot of Ivy. Then she turns to others for second part."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Ivy",
+              "lines": [
+                {
+                  "line": "Great? I bet she's only here because no-one else would take the job!"
+                },
+                {
+                  "line": "Let's go"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0-40-530",
+          "actions": [
+            {
+              "para": "Cathay walks up timidly to Sam."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Cathy",
+              "lines": [
+                {
+                  "line": "Welcome to our class Sam."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0-40-540",
+          "actions": [
+            {
+              "para": "Ivy steps between Sam and Cathy, facing Cathy."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Ivy",
+              "lines": [
+                {
+                  "line": "I said let's go!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0-40-550",
+          "actions": [
+            {
+              "para": "Timid/scared, looking at Ivy or downwards."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Cathy",
+              "lines": [
+                {
+                  "line": "Oh, yes, of course"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0-40-560",
+          "actions": [
+            {
+              "para": "Cathy, Doug, and Tom follow Ivy towards door."
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "0-40-570",
+          "actions": [
+            {
+              "para": "Sam stands up, turns to Liana and Elanor packing bags and leaving. Nervous grin."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Sam",
+              "lines": [
+                {
+                  "line": "Well see you tomorrow!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0-40-580",
+          "actions": [
+            {
+              "para": "Mid Liana."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Liana",
+              "lines": [
+                {
+                  "line": "That seems likely since you sit in front of me."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0-40-590",
+          "actions": [
+            {
+              "para": "Sam nervous, blushing, awkward. Not really laughing."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Sam",
+              "lines": [
+                {
+                  "line": "Oh, well, yes, I guess that's true."
+                },
+                {
+                  "line": "Wait, was that a joke?"
+                },
+                {
+                  "line": "Oh, yes, of course, so funny! Ha ha ha!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0-40-600",
+          "actions": [
+            {
+              "para": "Liana eyes slide away from Sam widening."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Liana",
+              "lines": [
+                {
+                  "line": "Riiiight."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0-40-610",
+          "actions": [
+            {
+              "para": "Elanor looks directly at Sam, closeup."
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "0-40-615",
+          "actions": [
+            {
+              "para": "Sam taken aback a bit, surprised, at Elanor."
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "0-40-620",
+          "actions": [
+            {
+              "para": "The girls leave. Mandy has left. Helen remains in seat looking downwards."
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "0-40-625",
+          "actions": [
+            {
+              "para": "Sam turns from looking at the door, and approaches Helen."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Sam",
+              "lines": [
+                {
+                  "line": "Hi, I'm Sam! Helen wasn't it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0-40-630",
+          "actions": [
+            {
+              "para": "Shot from under desk looking upwards. Helen remains looking down. Eyes widen."
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "0-40-640",
+          "actions": [
+            {
+              "para": "Helen suddenly gets up and leaves without looking at Sam. Sam looks surprised."
+            }
+          ],
+          "dialog": []
+        },
+        {
+          "id": "0-40-650",
+          "actions": [
+            {
+              "para": "Final shot, Sam alone in classroom."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Sam",
+              "lines": [
+                {
+                  "line": "So this is my new school huh?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "location": "INT. EO-Sam-and-Hank-Home - Kitchen",
+      "intro": [],
+      "shots": [
+        {
+          "id": "0-50-700",
+          "actions": [
+            {
+              "para": "Deb at kitchen bench."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Deb",
+              "lines": [
+                {
+                  "line": "Welcome home! So how was your first day? Made any friends yet? I want a full report!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0-50-710",
+          "actions": [
+            {
+              "para": "Mid Sam. Fake smile, twitch in corner of mouth?"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Sam",
+              "lines": [
+                {
+                  "line": "Well... it was interesting."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0-50-720",
+          "actions": [
+            {
+              "para": "Closeup. Quizzical expression."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Deb",
+              "lines": [
+                {
+                  "line": "Interesting..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0-50-720",
+          "actions": [
+            {
+              "para": "Mid."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Deb",
+              "lines": [
+                {
+                  "line": "Look, this is new for both of us."
+                },
+                {
+                  "line": "It's going to take a bit to get used to everything."
+                },
+                {
+                  "line": "Give it some time."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0-50-720",
+          "actions": [
+            {
+              "para": "Mid Sam."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Sam",
+              "lines": [
+                {
+                  "line": "Yes, you are right. I'm sure it's going to be great!"
+                },
+                {
+                  "line": "Tomorrow is a new day!"
+                },
+                {
+                  "line": "I'm going to fit in even if it takes all year!"
+                },
+                {
+                  "line": "VERSE: Romans 5:3-4 \"... suffering produces endurance, and endurance produces character ...\""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "location": "INT. Separator title",
+      "intro": [],
+      "shots": []
+    },
+    {
+      "location": "INT. EO-Sam-and-Hank-Home - Sam's bedroom",
+      "intro": [],
+      "shots": [
+        {
+          "id": "0-60-800",
+          "actions": [
+            {
+              "para": "Sam lying in bed, out of shot. Deb calls out from other room (muffled)."
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Deb",
+              "lines": [
+                {
+                  "line": "Sam! Sam! Time to get up!"
+                },
+                {
+                  "line": "You are going to be late for School again."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0-60-810",
+          "actions": [
+            {
+              "para": "Shot from base of bed, showing Sam sitting up. No smile. Big heaving sigh."
+            }
+          ],
+          "dialog": []
+        }
+      ]
+    }
+  ]
+}

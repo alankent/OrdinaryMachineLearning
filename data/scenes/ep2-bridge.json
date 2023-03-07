@@ -1,0 +1,113 @@
+{
+    "name": "Episode 2 - Newcomer",
+    "parts": [
+        {
+            "name": "Location 20",
+            "shots": [
+                {
+                    "id": "2-20-100",
+                    "name": "Shot 100",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        }
+                    ]
+                },
+                {
+                    "id": "2-20-105",
+                    "name": "Shot 105",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        }
+                    ]
+                },
+                {
+                    "id": "2-20-110",
+                    "name": "Shot 110",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        }
+                    ]
+                },
+                {
+                    "id": "2-20-130",
+                    "name": "Shot 130",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        }
+                    ]
+                },
+                {
+                    "id": "2-20-140",
+                    "name": "Shot 140",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        }
+                    ]
+                },
+                {
+                    "id": "2-20-150",
+                    "name": "Shot 150",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        }
+                    ]
+                },
+                {
+                    "id": "2-20-170",
+                    "name": "Shot 170",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        },
+                        {
+                            "name": "Hank"
+                        },
+                        {
+                            "name": "Hank"
+                        }
+                    ]
+                },
+                {
+                    "id": "2-20-180",
+                    "name": "Shot 180",
+                    "characters": []
+                },
+                {
+                    "id": "2-20-190",
+                    "name": "Shot 190",
+                    "characters": []
+                },
+                {
+                    "id": "2-20-210",
+                    "name": "Shot 210",
+                    "characters": []
+                },
+                {
+                    "id": "2-20-220",
+                    "name": "Shot 220",
+                    "characters": []
+                },
+                {
+                    "id": "2-20-230",
+                    "name": "Shot 230",
+                    "characters": [
+                        {
+                            "name": "Hank"
+                        }
+                    ]
+                },
+                {
+                    "id": "2-20-240",
+                    "name": "Shot 240",
+                    "characters": []
+                }
+            ]
+        }
+    ]
+}

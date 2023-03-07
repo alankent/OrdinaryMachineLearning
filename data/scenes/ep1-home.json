@@ -1,0 +1,154 @@
+{
+    "name": "Episode 1 - Friendship part 1",
+    "parts": [
+        {
+            "name": "Location 30",
+            "shots": [
+                {
+                    "id": "11-30-010",
+                    "name": "Shot 10",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "11-30-020",
+                    "name": "Shot 020",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        },
+                        {
+                            "name": "Deb"
+                        }
+                    ]
+                },
+                {
+                    "id": "11-30-050",
+                    "name": "Shot 050",
+                    "characters": [
+                        {
+                            "name": "Sam"
+                        },
+                        {
+                            "name": "Deb"
+                        }
+                    ]
+                },
+                {
+                    "id": "11-30-060",
+                    "name": "Shot 060",
+                    "characters": [
+                        {
+                            "name": "Deb"
+                        }
+                    ]
+                },
+                {
+                    "id": "11-30-070",
+                    "name": "Shot 070",
+                    "characters": [
+                        {
+                            "name": "Deb"
+                        },
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "11-30-100",
+                    "name": "Shot 100",
+                    "characters": [
+                        {
+                            "name": "Deb"
+                        },
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "11-30-110",
+                    "name": "Shot 110",
+                    "characters": [
+                        {
+                            "name": "Deb"
+                        },
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "11-30-120",
+                    "name": "Shot 120",
+                    "characters": [
+                        {
+                            "name": "Deb"
+                        },
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "11-30-200",
+                    "name": "Shot 200",
+                    "characters": [
+                        {
+                            "name": "Deb"
+                        },
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "11-30-210",
+                    "name": "Shot 210",
+                    "characters": [
+                        {
+                            "name": "Deb"
+                        }
+                    ]
+                },
+                {
+                    "id": "11-30-220",
+                    "name": "Shot 220",
+                    "characters": [
+                        {
+                            "name": "DebInBlack"
+                        }
+                    ]
+                },
+                {
+                    "id": "11-30-240",
+                    "name": "Shot 240",
+                    "characters": [
+                        {
+                            "name": "DebInBlack"
+                        },
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                },
+                {
+                    "id": "11-30-260",
+                    "name": "Shot 260",
+                    "characters": [
+                        {
+                            "name": "Deb"
+                        },
+                        {
+                            "name": "Sam"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
